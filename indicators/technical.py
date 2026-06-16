@@ -17,7 +17,7 @@ def calculate_indicators(df):
     # RSI
     df["RSI"] = ta.momentum.rsi(
         df["Close"],
-        window=14
+        window=80
     )
 
     # MACD
