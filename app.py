@@ -1,3 +1,6 @@
+
+
+
 import streamlit as st
 
 st.set_page_config(
@@ -27,3 +30,4 @@ st.markdown("""
 
 Use the navigation menu on the left sidebar to access the modules.
 """)
+

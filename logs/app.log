@@ -315,3 +315,11 @@ ConnectionResetError: [WinError 10054] An existing connection was forcibly close
 2026-06-14 18:38:59,074 | INFO | Downloading SUNPHARMA.NS | Period=1y | Interval=1d
 2026-06-14 18:38:59,488 | INFO | Downloading SUNPHARMA.NS | Period=2y | Interval=1wk
 2026-06-14 18:39:34,398 | INFO | Downloading TCS.NS | Period=2y | Interval=1d
+2026-06-20 18:56:27,213 | INFO | Downloading TCS.NS | Period=1y | Interval=1d
+2026-06-20 18:56:33,186 | INFO | Downloading ^NSEI | Period=1y | Interval=1d
+2026-06-20 18:56:33,667 | INFO | Downloading TCS.NS | Period=1y | Interval=1d
+2026-06-20 18:56:33,845 | INFO | Downloading TCS.NS | Period=2y | Interval=1wk
+2026-06-20 19:37:02,288 | INFO | Downloading TCS.NS | Period=1y | Interval=1d
+2026-06-20 19:37:03,427 | INFO | Downloading ^NSEI | Period=1y | Interval=1d
+2026-06-20 19:37:03,949 | INFO | Downloading TCS.NS | Period=1y | Interval=1d
+2026-06-20 19:37:04,109 | INFO | Downloading TCS.NS | Period=2y | Interval=1wk
